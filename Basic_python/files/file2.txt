@@ -1,0 +1,1 @@
+Writing to the file using with. With helps to close the file as the usage is over.
